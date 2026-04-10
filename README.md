@@ -1,5 +1,6 @@
-# 💫 About Me:
-## Hi there 👋, I'm Hamza Mirza<br><br>🚀 Backend Developer (in progress)<br>🎓 IIT Madras BS Student<br><br>---<br><br>### 🧠 About Me<br><br>* Building backend systems using **Node.js, Express & TypeScript**<br>* Strong focus on **clean architecture & scalable design**<br>* Currently working on a **Flashcard Revision Tool (API + DB design)**<br>* Learning deeply, not just coding superficially<br><br>---<br><br>### ⚡ Philosophy<br><br>> “Build first. Optimize later. Learn always.”<br>
+Backend developer in progress, focused on building scalable systems using Node.js, Express, and TypeScript.  
+Currently working on real-world projects and strengthening system design and database fundamentals.  
+I prefer understanding how things work under the hood rather than just using them.
 
 
 ## 🌐 Socials:
