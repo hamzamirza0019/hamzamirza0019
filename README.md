@@ -1,4 +1,4 @@
-##💫About Me: 
+🧠 About Me
 
 Backend developer in progress, focused on building scalable systems using Node.js, Express, and TypeScript.  
 Currently working on real-world projects and strengthening system design and database fundamentals.  
