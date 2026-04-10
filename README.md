@@ -1,4 +1,10 @@
-🧠 About Me
+## Hi there 👋, I'm Hamza Mirza
+
+🚀 Backend Developer (in progress)
+🎓 IIT Madras BS Student
+
+
+### 🧠 About Me
 
 Backend developer in progress, focused on building scalable systems using Node.js, Express, and TypeScript.  
 Currently working on real-world projects and strengthening system design and database fundamentals.  
